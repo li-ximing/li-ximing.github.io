@@ -46,7 +46,7 @@ navs:
     label: Notes
 
   -
-    href: /blog/
+    href: /categories/
     label: Blog
   
   -
@@ -72,7 +72,7 @@ quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
 options:
-#     - jekyll-github-metadata
+    - jekyll-github-metadata
     - rouge
 #     - jekyll-html-pipeline
     - jekyll-paginate
@@ -87,12 +87,12 @@ collections:
 
 repository: li-ximing/li-ximing.github.io
 
-# ---------------- # 
-#      Comments    #
-# ---------------- #
-# support provider: disqus, gitment, gitalk
-#comments_provider: gitalk
-comments_provider: gitalk
+# # ---------------- # 
+# #      Comments    #
+# # ---------------- #
+# # support provider: disqus, gitment, gitalk
+# #comments_provider: gitalk
+# comments_provider: gitalk
 
 
 # # !!!重要!!! 请修改下面这些信息为你自己申请的
