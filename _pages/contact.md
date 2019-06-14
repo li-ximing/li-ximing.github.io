@@ -2,5 +2,5 @@
 permalink: /contact/
 ---
 
-# Contact Information
+## Contact Information
 

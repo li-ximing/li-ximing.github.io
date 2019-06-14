@@ -2,5 +2,5 @@
 permalink: /projects/
 ---
 
-# Research Projects
+## Research Projects
 

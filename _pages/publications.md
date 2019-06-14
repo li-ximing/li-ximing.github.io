@@ -1,9 +1,7 @@
 ---
-title:
+title: Publications
 permalink: /publications/
 ---
-
-# Publications
 
 {% for pub in page.pubs %}
 {% unless pub.hidden %}
