@@ -1,4 +1,2 @@
 @echo "Building Jekyll Site"
-@jekyll build
-@echo "Jekyll Site Built"
-@call commit.bat
+@jekyll build && @echo "Jekyll Site Built" && @call commit.bat

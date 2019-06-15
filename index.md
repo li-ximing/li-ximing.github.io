@@ -5,4 +5,4 @@ author_profile: true
 
 ## About Me
 
-Ximing Li Jilin University CCST
+Ximing Li Jilin University CCST PhD
