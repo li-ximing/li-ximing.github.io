@@ -5,4 +5,4 @@ author_profile: true
 
 ## About Me
 
-Ximing Li
+Ximing Li (Jilin University)
